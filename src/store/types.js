@@ -1,0 +1,5 @@
+export const COUNTER_INCREMENT = 'COUNTER_INCREMENT';
+export const COUNTER_DECREMENT = 'COUNTER_DECREMENT';
+export const ADD_TASK = 'ADD_TASK';
+export const REMOVE_TASK = 'REMOVE_TASK';
+export const EDIT_TASK = 'EDIT_TASK';
